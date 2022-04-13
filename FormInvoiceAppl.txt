@@ -1,0 +1,15 @@
+local repository
+Keep the records on Invoice
+Add callUsers(){
+-------------------
+}
+printApplication(){
+-------------------
+$ git remote add origin https://github.com/ainugiri12/ProjectAbcd.git
+
+}
+submitApplication()
+{
+-------------------
+$ git remote add origin https://github.com/ainugiri12/ProjectAbcd.git
+}
