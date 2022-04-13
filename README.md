@@ -1,5 +1,4 @@
 # SecDef
-
 admin page
 control
-functions
+clientinformation added
